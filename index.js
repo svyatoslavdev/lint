@@ -14,7 +14,6 @@ module.exports = {
     ecmaVersion: 'latest',
     sourceType: 'module',
   },
-  parser: "babel-eslint",
   plugins: ['react'],
   rules: {
     'react/prop-types': 'off',
